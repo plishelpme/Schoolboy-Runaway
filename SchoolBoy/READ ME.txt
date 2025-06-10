@@ -20,7 +20,7 @@
  |If not helped, open again "fixer.bat".                             |
  |                                                                   |
  |Not fixed? Try next:                                               |
- |Click in WinRar window: Extract To                                 |                            
+ |Click in WinRar window: Extract To                                 |
  |Choose a desktop.                                                  |
  |Then try open "fixer.bat"                                          |
  |If fixed, start a SchoolBoySteam.exe.                              |
