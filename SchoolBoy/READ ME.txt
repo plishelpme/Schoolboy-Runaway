@@ -1,0 +1,25 @@
+ /=== Thanks you to download a "SchoolBoy Runaway" from Torrent! ===\
+ |                                                                   |
+ |Website: https://thelastgame.org                                   |
+ |SchoolBoy Telegram: https://t.me/linkedsquad/490                   |
+ |                                                                   |
+ |How to use:                                                        |
+ |                                                                   |
+ |1. Unrar files to Desktop.                                         |
+ |2. Start "SchoolBoySteam.exe".                                     |
+ |                                                                   |
+ |Enjoy!                                                             |
+ |                                                                   |
+ |===================================================================|
+ |                                                                   |
+ |Fixes:                                                             |
+ |                                                                   |
+ |1. Not starting "SchoolBoySteam.exe"                               |
+ |                                                                   |
+ |Fix: Start "fixer.bat" and wait 5 sec.                             |
+ |If not helped, open again "fixer.bat".                             |
+ |                                                                   |
+ |Not fixed? Try next:                                               |
+ |Click in WinRar window:                                            |
+ |                                                                   |
+ \== Thanks you to download a "SchoolBoy Runaway" from Torrent! =====/
