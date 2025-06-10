@@ -20,6 +20,11 @@
  |If not helped, open again "fixer.bat".                             |
  |                                                                   |
  |Not fixed? Try next:                                               |
- |Click in WinRar window:                                            |
+ |Click in WinRar window: Extract To                                 |                            
+ |Choose a desktop.                                                  |
+ |Then try open "fixer.bat"                                          |
+ |If fixed, start a SchoolBoySteam.exe.                              |
  |                                                                   |
  \== Thanks you to download a "SchoolBoy Runaway" from Torrent! =====/
+
+(P.S: My error guys, im forgot copy/paste texts how to fix a error. enjoy!)
